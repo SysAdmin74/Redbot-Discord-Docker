@@ -23,8 +23,6 @@ C:\> "copy and paste your discord bot token as the setup said"
 docker commit "Your container ID" redbotdiscord:final
 ```
 
----
-
 ### Linux (Coming Soon)
 
 ## Run it
