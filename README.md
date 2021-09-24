@@ -23,11 +23,13 @@ C:\> "copy and paste your discord bot token as the setup said"
 docker commit "Your container ID" redbotdiscord:final
 ```
 
+---
+
 ### Linux (Coming Soon)
 
 ## Run it
 ### Windows
-Run the container with the follow command
+Run the container with the follow command, you can set a nice name for your container.
 ```
 docker run -it --name RedBot redbotdiscord:final "red yourbotname"
 ```
