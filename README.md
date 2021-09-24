@@ -15,7 +15,7 @@ docker build -t redbotdiscord:init
 ```
 docker run -it --name RedBotinit redbotdiscord:init powershell
 C:\> redbot-setup
-C:\> "copy and paste your discord bot token ask the setup said"
+C:\> "copy and paste your discord bot token as the setup said"
 ```
 
 - Save the container changes to the docker image
