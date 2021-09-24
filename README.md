@@ -27,7 +27,7 @@ docker commit "Your container ID" redbotdiscord:final
 
 ## Run it
 ### Windows
-> Run the container with the follow command
-> ```
-> docker run -it --name RedBot redbotdiscord:final "red yourbotname"
-> ```
+Run the container with the follow command
+```
+docker run -it --name RedBot redbotdiscord:final "red yourbotname"
+```
